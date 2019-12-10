@@ -1,0 +1,118 @@
+[
+  {
+    "name":"告白氣球",
+    "singer": "周杰倫",
+    "album": "周杰倫的床邊故事",
+    "time": "03:35",
+    "link_url":"./source/告白氣球.mp3",
+    "cover":"./source/告白氣球.jpg",
+    "link_lrc":"./source/告白氣球.txt"
+  },
+  {
+    "name":"As long AS Love Me",
+    "singer": "Justin Bieber",
+    "album": "NOW That's What I Call Music! 44",
+    "time": "03:49",
+    "link_url":"./source/AslongASLoveMe.mp3",
+    "cover": "./source/AslongASLoveMe.jpg",
+    "link_lrc": "./source/AslongASLoveMe.txt"
+  },
+  {
+    "name":"Something Just Like This",
+    "singer": "Chainsmokers",
+    "album": "Something Just Like This",
+    "time": "04:07",
+    "link_url":"./source/SomethingJustLikeThis.mp3",
+    "cover":"./source/SomethingJustLikeThis.jpg",
+    "link_lrc":"./source/SomethingJustLikeThis.txt"
+  },
+  {
+    "name":"Your Song",
+    "singer": "Lady Gaga",
+    "album": "Your Song",
+    "time": "04:16",
+    "link_url":"./source/YourSong.mp3",
+    "cover":"./source/YourSong.jpg",
+    "link_lrc":"./source/YourSong.txt"
+  },
+  {
+    "name":"涼涼",
+    "singer": "楊宗緯/張碧晨",
+    "album": "涼涼",
+    "time": "05:00",
+    "link_url":"./source/涼涼.mp3",
+    "cover":"./source/涼涼.jpg",
+    "link_lrc":"./source/涼涼.txt"
+  },
+  {
+    "name":"小城大事",
+    "singer": "張學友",
+    "album": "學友光年世界巡迴演唱會",
+    "time": "03:54",
+    "link_url":"./source/小城大事.mp3",
+    "cover":"./source/小城大事.jpg",
+    "link_lrc":"./source/小城大事.txt"
+  },
+  {
+    "name":"廣東愛情故事",
+    "singer": "廣東雨神",
+    "album": "廣東愛情故事",
+    "time": "03:34",
+    "link_url":"./source/廣東愛情故事.mp3",
+    "cover":"./source/廣東愛情故事.jpg",
+    "link_lrc":"./source/廣東愛情故事.txt"
+  },
+  {
+    "name":"我是一個程序員",
+    "singer": "單小葉",
+    "album": "程序猿",
+    "time": "02:14",
+    "link_url":"./source/我是一個程序員.mp3",
+    "cover":"./source/我是一個程序員.jpg",
+    "link_lrc":"./source/我是一個程序員.txt"
+  },
+  {
+    "name":"演員",
+    "singer": "薛之謙",
+    "album": "紳士",
+    "time": "04:21",
+    "link_url":"./source/演員.mp3",
+    "cover":"./source/演員.jpg",
+    "link_lrc":"./source/演員.txt"},
+  {
+    "name":"百裏守約",
+    "singer": "蕭敬騰",
+    "album": "《王者榮耀》百裏守約英雄主打歌",
+    "time": "03:42",
+    "link_url":"./source/百裏守約.mp3",
+    "cover":"./source/百裏守約.jpg",
+    "link_lrc":"./source/百裏守約.txt"
+  },
+  {
+    "name":"社會搖",
+    "singer": "蕭全",
+    "album": "社會搖",
+    "time": "04:09",
+    "link_url":"./source/社會搖.mp3",
+    "cover":"./source/社會搖.jpg",
+    "link_lrc":"./source/社會搖.txt"
+  },
+  {
+    "name":"說散就散",
+    "singer": "袁婭維",
+    "album": "說散就散",
+    "time": "04:02",
+    "link_url":"./source/說散就散.mp3",
+    "cover":"./source/說散就散.jpg",
+    "link_lrc":"./source/說散就散.txt"
+  },
+  {
+    "name":"輸了你贏了世界又如何",
+    "singer": "林俊傑",
+    "album": "夢想的聲音《第二季》",
+    "time": "04:43",
+    "link_url":"./source/輸了你贏了世界又如何.mp3",
+    "cover":"./source/輸了你贏了世界又如何.jpg",
+    "link_lrc":"./source/輸了你贏了世界又如何.txt"
+  }
+]
